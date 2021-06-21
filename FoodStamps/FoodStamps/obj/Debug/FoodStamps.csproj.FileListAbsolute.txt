@@ -1,0 +1,6 @@
+C:\Users\Nick\Source\Repos\FoodStamps\FoodStamps\bin\Debug\FoodStamps.dll
+C:\Users\Nick\Source\Repos\FoodStamps\FoodStamps\bin\Debug\FoodStamps.pdb
+C:\Users\Nick\Source\Repos\FoodStamps\FoodStamps\obj\Debug\FoodStamps.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\FoodStamps\FoodStamps\obj\Debug\FoodStamps.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\FoodStamps\FoodStamps\obj\Debug\FoodStamps.dll
+C:\Users\Nick\Source\Repos\FoodStamps\FoodStamps\obj\Debug\FoodStamps.pdb
